@@ -1,4 +1,4 @@
-#dataset: https://www.kaggle.com/datasets/veeralakrishna/200-bird-species-with-11788-images
+#dataset: https://www.kaggle.com/datasets/as200188/ncku-bird-classification
 
 import numpy as np
 import os
